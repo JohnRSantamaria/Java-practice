@@ -14,9 +14,7 @@ public class CharactersExample {
         char character = 'a'; // utliza comillas simples
         System.out.println(character);
         //en char representa los caracteres de la tabla ACSII 
-        char ASCI = 65;
-        
-        System.out.println(ASCI);
+        char ASCI = 65;          
         
         char secondChar = (char) (ASCI + 1);
         
